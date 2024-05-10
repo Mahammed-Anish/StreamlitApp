@@ -38,7 +38,7 @@ st.caption("this is the caption")
 st.code("x=2021")
 st.latex(r''' a+a r^1+a r^2+a r^3 ''')
 
-st.image("anish.jpg")
+#st.image("anish.jpg")
 st.audio("shapeofyou.mp3")
 st.video("morphological_operations.mp4")
 
